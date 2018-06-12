@@ -1,0 +1,13 @@
+.bg-dark {
+    background-color: #ffffff !important;
+}
+.text-bold {
+  font-weight: bold;
+  margin: .3em;
+}
+.input-group {
+  margin: .3em
+}
+.btwn {
+  margin: .2em;
+}
